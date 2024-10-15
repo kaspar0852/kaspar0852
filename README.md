@@ -2,11 +2,8 @@
 <h3 align="center">A passionate learner and developer from Kathmdandu</h3>
 
 Updates
-- 🔭 I’m currently working on Personal Projects and focusing on Machine Learning and also Angular14
-- 🌱 I’m currently learning Machine Learning with Python and i want to continue my research on Deep Learning and Natural Language Processing
-- 💬 Ask me about Software Engineering, FrontEnd Development, Python, Flutter, Machine learning related Topics
+- 💬 Ask me about Software Engineering, .Net and Angular.
 - 📫 How to reach me: sanepalaaye@gmail.com
-- 🥅 2022 Goals: Learn more about deep learning and Angular
 - 👯 I’m looking to collaborate on Data Science, Machine Learning, Angular.
 
 <h3 align="left">Connect with me:</h3>
